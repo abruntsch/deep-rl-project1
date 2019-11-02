@@ -50,4 +50,4 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 4. Run the code.
 
-The training will stop after either 2000 episodes or as soon as an average score of +13 is achieved over 100 consecutive episodes. The trained model is further stored as `stored_model.pth` at the repository path.
+The training will stop after either 1,000 episodes or as soon as an average score of +13 is achieved over 100 consecutive episodes. The trained model is further stored as `stored_model.pth` at the repository path.
